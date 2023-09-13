@@ -1,16 +1,22 @@
 # weather
 
-A new Flutter project.
+# Infoware Internship Assignment 
 
-## Getting Started
+I have build a weather app. In this app you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
-This project is a starting point for a Flutter application.
+I have used
+1 - openWeatherMap API
+2 - Forms
+3 - Audio Player
+Packages used
+ 1 - geolocator: ^9.0.2
+ 2 - http: ^0.13.5
+ 3 - flutter_spinkit: ^5.1.0
+ 4 - audioplayers: ^5.1.0
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+https://github.com/VISHALGUPTA100803/WorldWeather/assets/96491059/60eb4bbe-523f-462f-8739-f1402d2791d5
+
