@@ -2,7 +2,9 @@
 
 # Infoware Internship Assignment 
 
-I have build a weather app. In this app you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
+I have build a weather app. In this app you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!.
+
+
 "I've designed a weather app that seamlessly blends breathtaking aesthetics with intuitive functionality.
 
 I have used
