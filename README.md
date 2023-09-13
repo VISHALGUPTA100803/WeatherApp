@@ -5,14 +5,42 @@
 I have build a weather app. In this app you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
 I have used
+
+
+
 1 - openWeatherMap API
+
+
+
 2 - Forms
+
+
+
+
 3 - Audio Player
+
+
+
 Packages used
+
+
+
+
  1 - geolocator: ^9.0.2
+
+ 
  2 - http: ^0.13.5
+
+
+ 
  3 - flutter_spinkit: ^5.1.0
+
+
+ 
  4 - audioplayers: ^5.1.0
+
+
+ 
 
 
 
