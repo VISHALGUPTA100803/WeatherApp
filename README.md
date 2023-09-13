@@ -7,6 +7,11 @@ I have build a weather app. In this app you'll be able to find out the live weat
 
 I've designed a weather app that seamlessly blends breathtaking aesthetics with intuitive functionality.
 
+
+
+
+[Download the APK from our Releases page here](https://github.com/VISHALGUPTA100803/WeatherApp/releases/tag/v1.0.0)
+
 I have used
 
 
